@@ -1,7 +1,7 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
 - **Họ tên:Nguyễn Đức Hiếu**
-- **Lớp:CNTT2**
+- LỚP:CNTT2
 - **Hệ điều hành (Windows/macOS): Windows**
 
 ## Phần A. Tổ chức thư mục bằng GUI
