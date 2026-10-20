@@ -1,7 +1,7 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
 - **Họ tên:Nguyễn Đức Hiếu**
-- **Lớp:CNTT2**
+- Lớp:CNTT2
 - **Link repository:https://github.com/hn3443723-max/CNTT2_Nhap-mon-CNTT_Ontap-Ngay1.git**
 - **Hệ điều hành (Windows/macOS): Windows**
 
