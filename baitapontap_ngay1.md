@@ -2,6 +2,7 @@
 
 - **Họ tên:Nguyễn Đức Hiếu**
 - **Lớp:CNTT2**
+- **Link repository:
 - **Hệ điều hành (Windows/macOS): Windows**
 
 ## Phần A. Tổ chức thư mục bằng GUI
